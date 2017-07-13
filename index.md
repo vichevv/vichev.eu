@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to vichev.eu
 
 You can use the [editor on GitHub](https://github.com/vichevv/vichev.eu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
