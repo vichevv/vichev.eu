@@ -2365,3 +2365,6 @@ address=/onclkds.com/127.0.0.1
 address=/go.oclaserver.com/127.0.0.1
 address=/d869381a42af33b.com/127.0.0.1
 address=/doublepimpssl.com/127.0.0.1
+address=/bravenewcoin.com/127.0.0.1
+address=/coinurl.com/127.0.0.1
+address=/main.exdynsrv.com/127.0.0.1
