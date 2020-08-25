@@ -1721,52 +1721,6 @@
 # [am15.net]
 127.0.0.1 am15.net
 
-# [amazon-adsystem.com]
-127.0.0.1 aax.amazon-adsystem.com
-127.0.0.1 aax-us.amazon-adsystem.com
-127.0.0.1 aax-us-east.amazon-adsystem.com
-127.0.0.1 c.amazon-adsystem.com
-127.0.0.1 mads.amazon-adsystem.com
-127.0.0.1 s.amazon-adsystem.com
-127.0.0.1 vaes.amazon-adsystem.com
-
-# [amazon.com]
-127.0.0.1 aan.amazon.com
-127.0.0.1 aax-us-iad.amazon.com
-127.0.0.1 device-metrics-us.amazon.com
-127.0.0.1 device-metrics-us-2.amazon.com
-127.0.0.1 fls-na.amazon.com
-127.0.0.1 mads.amazon.com
-
-# [amazonaws.com]
-127.0.0.1 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
-127.0.0.1 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
-127.0.0.1 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
-127.0.0.1 admarvel.s3.amazonaws.com
-127.0.0.1 adpublisher.s3.amazonaws.com
-127.0.0.1 advancelocal-adapter-image-uploads.s3.amazonaws.com
-127.0.0.1 advert-creatives.s3.amazonaws.com
-127.0.0.1 advrts.s3.amazonaws.com
-127.0.0.1 adzip.s3.amazonaws.com
-127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
-127.0.0.1 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
-127.0.0.1 ams-ads-cornerstone-creatives-fe.s3.amazonaws.com
-127.0.0.1 ams-ads-creative-assets-na.s3.amazonaws.com
-127.0.0.1 analytics.s3.amazonaws.com
-127.0.0.1 tapps.analytics.s3.amazonaws.com
-127.0.0.1 com.tapps.analytics.s3.amazonaws.com
-127.0.0.1 br.com.tapps.analytics.s3.amazonaws.com
-127.0.0.1 btf-analytics.s3.amazonaws.com
-127.0.0.1 chartbeat-sdk.s3.amazonaws.com
-127.0.0.1 chartiq-client-prod.s3.amazonaws.com
-127.0.0.1 clickwallads.s3.amazonaws.com
-127.0.0.1 ignifyecom.s3.amazonaws.com
-127.0.0.1 incoming-data-sense360.s3.amazonaws.com
-127.0.0.1 nativead.s3.amazonaws.com
-127.0.0.1 yieldify-static-files.s3.amazonaws.com
-127.0.0.1 later-analytics-reports.s3-accelerate.amazonaws.com
-127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
-
 # [amazonsilk.com]
 127.0.0.1 global.cmcs.service.amazonsilk.com
 
